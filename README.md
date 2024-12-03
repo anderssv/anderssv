@@ -8,8 +8,9 @@ I am passionate about creating value for users through software and have a long 
 Sites and links:
 
 - [My blog: Dazed & Confused](https://blog.f12.no)
-- [anderssv@X](https://x.com/anderssv)
+- [Bluesky](https://bsky.app/profile/anders.f12.no)
 - [LinkedIn](https://linkedin.com/in/anderssv)
+- [anderssv@X](https://x.com/anderssv)
 - [Recorded talks on Vimeo](https://vimeo.com/showcase/1807533)
 - [I publish Smidigposten every once in a while](https://medium.com/smidigalliansen)
 - [My company](https://www.mikill.no)
